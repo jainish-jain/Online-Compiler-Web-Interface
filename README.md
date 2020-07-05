@@ -34,16 +34,17 @@ versions.
  </ul>
  </p>
 <h2> GUI</h2>
-<h3> Home Page</h3>
-<img src="/images/design/POz6mJ.png">
-<h3> SignUp Page</h3>
-<img src="/images/design/c0ejcT.png">
-<h3> Login Page</h3>
-<img src="/images/design/J3BqXc.png">
-<h3> User Dashboard </h3>
-<img src="/images/design/senoLq.png">
-<h3> Input and Output Action</h3>
+
+<p><h3> Home Page</h3>
+<img src="/images/design/POz6mJ.png"></p>
+<p><h3> SignUp Page</h3>
+<img src="/images/design/c0ejcT.png"></p>
+<p><h3> Login Page</h3>
+<img src="/images/design/J3BqXc.png"></p>
+<p><h3> User Dashboard </h3>
+<img src="/images/design/senoLq.png"></p>
+<p><h3> Input and Output Action</h3>
 <img src="/images/design/DtKbR9.png">
-<img src="/images/design/H71he9.png">
-<h3> Save Button Action Page</h3>
-<img src="/images/design/QFjTqb.png">
+<img src="/images/design/H71he9.png"></p>
+<p><h3> Save Button Action Page</h3>
+<img src="/images/design/QFjTqb.png"></p>
