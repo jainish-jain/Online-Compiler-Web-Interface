@@ -1,0 +1,5 @@
+try:		#TIP:Always use "try" for "raw_input()" function
+	x=raw_input()
+	print("Hello "+x)
+except:
+	print()

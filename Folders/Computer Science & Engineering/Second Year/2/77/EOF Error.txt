@@ -1,0 +1,5 @@
+try:
+    data = input('prompt:')
+    print ('READ:', data)
+except EOFError:
+    print ()

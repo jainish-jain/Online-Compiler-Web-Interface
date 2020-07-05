@@ -1,0 +1,5 @@
+try:		#TIP:Always use "try" for "input()" function
+	x=input()
+	print("Hello "+x)
+except:
+	print()

@@ -1,0 +1,43 @@
+#include<iostream>
+
+using namespace std; 
+
+int main()
+{
+    int n=6,flag=0;
+    cout<<"Enter the size of bit= ";
+    cout<<n;
+    int bit[]={1,1,1,1,1,1};
+    cout<<"Enter the bit= ";
+    for(int i=0;i<n;i++){
+        cout<<bit[i];
+    }
+    
+    int j=0;
+    while(flag<5){
+        if(bit[j]==1)
+            flag++;
+         
+        int k=n-1; 
+        int y=n-1;
+        if(flag==5){
+           
+            while(y>j){
+                bit[n-k]=bit[n-(k+1)];
+                k++;
+                y--;
+            }
+            n++;
+        }
+        
+        j++;
+        if(j==y+1)
+            bit[j]=0;
+            
+        if(j==n)
+            break;
+    }
+    cout<<"   ";
+    for(int x=0;x<n;x++)
+        cout<<bit[x];
+} 
