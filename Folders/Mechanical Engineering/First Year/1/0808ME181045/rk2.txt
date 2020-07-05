@@ -1,7 +1,0 @@
-class Example //Class name with "main()" method should be "Example"
-{
-	public static void main(String args[])
-	{
-		System.out.print("Hello World!");
-	}
-} 

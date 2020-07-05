@@ -1,9 +1,0 @@
-#include<iostream>
-
-using namespace std; 
-zxcxcxzcxzczxcz
-int main()
-{
- 	cout<<"Hello World!";
-	return 0;  
-} 

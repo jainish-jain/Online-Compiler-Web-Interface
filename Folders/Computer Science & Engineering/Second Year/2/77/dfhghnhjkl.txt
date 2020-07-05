@@ -1,3 +1,0 @@
-#include<stdio
-	return 0;  
-} 
